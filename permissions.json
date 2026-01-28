@@ -1,0 +1,23 @@
+{
+  "global": {
+    "allow_exploitation": true,
+    "require_confirmation_for_assisted": true,
+    "log_all_actions": true
+  },
+
+  "modes": {
+    "auto": {
+      "description": "Safe tools that can run automatically",
+      "confirmation_required": false
+    },
+    "assisted": {
+      "description": "Potentially risky tools, user confirmation required",
+      "confirmation_required": true
+    },
+    "guided": {
+      "description": "High-risk or interactive tools (e.g. Metasploit)",
+      "confirmation_required": true,
+      "enabled": true
+    }
+  }
+}
