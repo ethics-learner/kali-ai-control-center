@@ -24,7 +24,9 @@ and forensic-ready reporting — all in one platform.
 > Screenshots below demonstrate live scanning, analysis, and reporting.
 
 *(See Screenshots section below)*
-
+/home/lalitpandit/Pictures/Screenshot_App2.png
+/home/lalitpandit/Pictures/Screenshot_App Running.png
+/home/lalitpandit/Pictures/terminal apppy.png
 ---
 
 ## 🚀 Installation
@@ -35,5 +37,9 @@ and forensic-ready reporting — all in one platform.
 sudo dpkg -i kali-ai-gui-1.0.0.deb
 kali-ai-gui
 
+👤 Author
+
+Ethics Learner (Lalit Pandit)
+Cybersecurity | Forensics | Automation
 
 Policy-based Cyber Operations GUI for Kali Linux with AI-assisted analysis, guided exploitation, tool orchestration, and forensic PDF reporting.
