@@ -1,11 +1,15 @@
 # Kali AI Control Center
 
+![Security Policy hook](https://img.shields.io/badge/security-policy-green)
+![Vulnerability Disclosure](https://img.shields.io/badge/responsible-disclosure-blue)
+![Maintained](https://img.shields.io/badge/maintained-yes-brightgreen)
 ![License](https://img.shields.io/github/license/ethics-learner/kali-ai-control-center)
 ![Stars](https://img.shields.io/github/stars/ethics-learner/kali-ai-control-center?style=social)
 ![Issues](https://img.shields.io/github/issues/ethics-learner/kali-ai-control-center)
 ![Release](https://img.shields.io/github/v/release/ethics-learner/kali-ai-control-center)
 ![Kali](https://img.shields.io/badge/Kali-Linux-blue)
 ![Python](https://img.shields.io/badge/Python-3.x-yellow)
+
 
 
 A **policy-based Cyber Operations GUI** for Kali Linux that combines
